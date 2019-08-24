@@ -9,28 +9,13 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>scaffold-web</artifactId>
+    <artifactId>scaffold-dao</artifactId>
 
     <dependencies>
-        <dependency>
-            <groupId>com.gavin.sh</groupId>
-            <artifactId>scaffold-core</artifactId>
-            <version>${project.version}</version>
-        </dependency>
-        <dependency>
-            <groupId>com.gavin.sh</groupId>
-            <artifactId>scaffold-common</artifactId>
-            <version>${project.version}</version>
-        </dependency>
         <dependency>
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-starter-web</artifactId>
             <version>${spring.boot.version}</version>
-        </dependency>
-        <dependency>
-            <groupId>com.gavin.sh</groupId>
-            <artifactId>scaffold-service</artifactId>
-            <version>1.0-SNAPSHOT</version>
         </dependency>
     </dependencies>
 </project>

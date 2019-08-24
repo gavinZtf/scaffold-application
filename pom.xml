@@ -28,6 +28,8 @@
         <module>scaffold-common</module>
         <module>scaffold-core</module>
         <module>scaffold-web</module>
+        <module>scaffold-service</module>
+        <module>scaffold-dao</module>
     </modules>
 
 </project>

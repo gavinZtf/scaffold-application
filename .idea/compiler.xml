@@ -8,6 +8,8 @@
         <outputRelativeToContentRoot value="true" />
         <module name="scaffold-common" />
         <module name="scaffold-core" />
+        <module name="scaffold-dao" />
+        <module name="scaffold-service" />
         <module name="scaffold-web" />
       </profile>
     </annotationProcessing>
