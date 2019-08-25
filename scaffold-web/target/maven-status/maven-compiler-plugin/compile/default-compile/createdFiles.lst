@@ -1,2 +1,3 @@
 com\gavin\sh\ScaffoldApplication.class
 com\gavin\sh\controller\HelloController.class
+com\gavin\sh\controller\UserController.class

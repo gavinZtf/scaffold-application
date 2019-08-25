@@ -28,6 +28,11 @@
             <version>${spring.boot.version}</version>
         </dependency>
         <dependency>
+            <groupId>org.mybatis.spring.boot</groupId>
+            <artifactId>mybatis-spring-boot-starter</artifactId>
+            <version>1.3.2</version>
+        </dependency>
+        <dependency>
             <groupId>com.gavin.sh</groupId>
             <artifactId>scaffold-service</artifactId>
             <version>1.0-SNAPSHOT</version>
