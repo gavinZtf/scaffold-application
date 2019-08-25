@@ -74,6 +74,6 @@ public class PageInterceptor implements Interceptor {
 
     @Override
     public void setProperties(Properties properties) {
-        
+
     }
 }

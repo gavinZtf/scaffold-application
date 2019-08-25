@@ -27,7 +27,7 @@
     <session id="-760614126">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="3" />
+          <entry key="project.closed" value="4" />
           <entry key="project.open.time.2" value="1" />
           <entry key="project.open.time.20" value="1" />
           <entry key="project.open.time.22" value="1" />
@@ -95,8 +95,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/scaffold-dao/src/main/java/com/gavin/sh/plugin/PageInterceptor.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="741">
-              <caret line="76" column="8" selection-start-line="76" selection-start-column="8" selection-end-line="76" selection-end-column="8" />
+            <state relative-caret-position="323">
+              <caret line="54" column="30" selection-start-line="54" selection-start-column="22" selection-end-line="54" selection-end-column="30" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#835#836#0" expanded="true" />
@@ -432,16 +432,15 @@
       <workItem from="1566568986990" duration="2629000" />
       <workItem from="1566652973467" duration="3130000" />
       <workItem from="1566701149450" duration="8320000" />
-      <workItem from="1566731831681" duration="7469000" />
+      <workItem from="1566731831681" duration="8072000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="25372000" />
+    <option name="totallyTimeSpent" value="25975000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49819493" visible="true" weight="0.2238806" />
       <window_info id="Structure" order="1" sideWeight="0.50180507" side_tool="true" weight="0.2217484" />
@@ -791,8 +790,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/scaffold-dao/src/main/java/com/gavin/sh/plugin/PageInterceptor.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="741">
-          <caret line="76" column="8" selection-start-line="76" selection-start-column="8" selection-end-line="76" selection-end-column="8" />
+        <state relative-caret-position="323">
+          <caret line="54" column="30" selection-start-line="54" selection-start-column="22" selection-end-line="54" selection-end-column="30" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#835#836#0" expanded="true" />
