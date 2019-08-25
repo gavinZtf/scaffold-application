@@ -8,4 +8,6 @@ import org.springframework.stereotype.Repository;
 public interface UserDmoMapper {
 
     UserDmo selectByPrimaryKey(Integer id);
+
+    void insert(UserDmo userDmo);
 }

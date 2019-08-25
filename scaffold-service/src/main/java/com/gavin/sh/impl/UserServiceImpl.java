@@ -29,4 +29,11 @@ public class UserServiceImpl implements UserService {
         BeanUtils.copyProperties(userDmo, user);
         return user;
     }
+
+    @Override
+    public void insertUser(User user) {
+        UserDmo userDmo = new UserDmo();
+        BeanUtils.copyProperties(user, userDmo);
+        userDmoMapper.insert(userDmo);
+    }
 }
